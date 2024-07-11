@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationhtml-bootstap", "WebApplicationhtml-bootstap\WebApplicationhtml-bootstap.csproj", "{78C10849-09BE-401B-83CF-EC88396ECBF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78C10849-09BE-401B-83CF-EC88396ECBF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C10849-09BE-401B-83CF-EC88396ECBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C10849-09BE-401B-83CF-EC88396ECBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C10849-09BE-401B-83CF-EC88396ECBF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B67D45C-9CFF-4E14-8D22-5AFF4C38D780}
+	EndGlobalSection
+EndGlobal
